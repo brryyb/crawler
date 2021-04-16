@@ -1,0 +1,8 @@
+#https://www.zhihu.com/question/20894671
+https://www.zhihu.com/question/22283504/answer/20894671
+#https://www.zhihu.com/people/ccat
+id,url,created,updated,
+voteup_count,comment_count,content,excerpt
+
+question: qid,url,title,qcreated,qupdated
+author:aid,url_token,name
