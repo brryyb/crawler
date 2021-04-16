@@ -5,6 +5,7 @@ z03.py 知乎  爬取问题的所有回答
 y02.py 读取JSON文件
 y03.py 读取JSON文件
 y05.py 读取JSON文件
+y07.py 读取JSON文件,写入MONGO
 structure.txt   json 结构
 mj03.py 合并JSON文件
 m00   mongodb
