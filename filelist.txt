@@ -8,6 +8,7 @@ y05.py 读取JSON文件
 y07.py 读取JSON文件,写入MONGO
 c03.py 读取JSON文件,写入MONGO
 c05.py 读取JSON文件,写入MONGO
+c06.py 读取JSON文件,写入MONGO items,start,end, offset
 structure.txt   json 结构
 mj03.py 合并JSON文件
 m00   mongodb
