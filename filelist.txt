@@ -8,7 +8,11 @@ y05.py 读取JSON文件
 y07.py 读取JSON文件,写入MONGO
 c03.py 读取JSON文件,写入MONGO
 c05.py 读取JSON文件,写入MONGO
-c06.py 读取JSON文件,写入MONGO items,start,end, offset
+c06.py 爬取问题的所有回答,读取JSON文件,写入MONGO items,start,end, offset
+f02.py 收藏夹爬虫
 structure.txt   json 结构
+qlist.txt  知乎问题
 mj03.py 合并JSON文件
 m00   mongodb
+
+pg02.py 豆瓣爬虫
