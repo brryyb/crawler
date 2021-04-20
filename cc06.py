@@ -10,8 +10,25 @@ collection = db['questions']
 #init para
 items = 10
 start = 0
-end = 50
-
+end = 30
+#q_id = '20894671'
+#q_id = '30899950'
+#q_id = '22292474'
+#q_id = '37167038'
+#q_id = '20532926'
+#q_id = '24326030'
+#q_id = '28361295'
+#q_id = '35112627'
+#q_id = '27353387'
+#q_id = '41992632' 
+#q_id = '21758700' 
+#q_id = 20381470
+#q_id = '36546814'
+q_id = '27050272' 
+#27353387
+#20381470
+#36546814
+#27050272 3
 fname = 'urllist.txt'
 f = open(fname,'a+')
 #init request 
@@ -32,7 +49,7 @@ for k in range(start,end):
     load_dict = z.json()
     #read json data
     for i in range(0,items):
-         print(offset,i,q_id)
+         print(offset,i)
          sid = load_dict["data"][i]["id"]
          url = load_dict["data"][i]["url"]
          created = load_dict["data"][i]["created_time"]
