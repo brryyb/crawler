@@ -11,6 +11,8 @@ c05.py 读取JSON文件,写入MONGO
 c06.py * 爬取问题的所有回答,读取JSON文件,写入MONGO items,start,end, offset
 f02.py 收藏夹爬虫
 f05.py * 收藏夹爬虫
+g01.py 收藏夹爬虫 selenium
+g03.py 收藏夹爬虫 selenium
 structure.txt   json 结构
 qlist.txt  知乎问题
 mj03.py 合并JSON文件
