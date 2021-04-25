@@ -10,7 +10,7 @@ c03.py 读取JSON文件,写入MONGO
 c05.py 读取JSON文件,写入MONGO
 c06.py * 爬取问题的所有回答,读取JSON文件,写入MONGO items,start,end, offset
 f02.py 收藏夹爬虫
-f05.py * 收藏夹爬虫
+f05.py * 收藏夹爬虫  读取HTML的链接 flink.txt
 g01.py 收藏夹爬虫 selenium
 g03.py 收藏夹爬虫 selenium
 structure.txt   json 结构
@@ -21,3 +21,4 @@ m01.py mongodb find()
 m02.py mongodb find()
 pg02.py 豆瓣爬虫
 a03.py  selenium 
+fd03.py  读取HTML的链接 fd02.html
