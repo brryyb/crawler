@@ -14,6 +14,7 @@ f05.py * 收藏夹爬虫  读取HTML的链接 flink.txt
 g01.py 收藏夹爬虫 selenium
 g03.py 收藏夹爬虫 selenium
 structure.txt   json 结构
+ap08.py playwright 收藏夹爬虫  问题号.html
 qlist.txt  知乎问题
 mj03.py 合并JSON文件
 m00   mongodb
