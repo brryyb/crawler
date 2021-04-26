@@ -23,3 +23,5 @@ m02.py mongodb find()
 pg02.py 豆瓣爬虫
 a03.py  selenium 
 fd03.py  读取HTML的链接 fd02.html
+fd05.py  读取HTML的链接 fd02.html
+t06.py   读取HTML的链接 ft.html

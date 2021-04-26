@@ -31,13 +31,16 @@ links = []
 #epath = "//div['SelfCollectionItem-title']/a/@href"
 ##epath = "//div['CollectionDetailPageItem-innerContainer']/a/@href"
 epath = "//h2/div/a/@href"
-getLink('fd.html',epath,links)
+getLink('fd02.html',epath,links)
 plinks(links)
 links = []
 #xpath = "//a[text()='上一步']"
 epath = "//*[contains(@class,'PaginationButton')]/text()"
-getLink('f2.html',epath,links)
+getLink('fd02.html',epath,links)
 plinks(links)
+print(links[len(links)-2])
+for i in range(1,int(links[len(links)-2])):
+    print(i)
 #getLink('f3.html',epath,links)
 
 
