@@ -15,6 +15,7 @@ g01.py 收藏夹爬虫 selenium
 g03.py 收藏夹爬虫 selenium
 structure.txt   json 结构
 ap08.py playwright 收藏夹爬虫  问题号.html
+ap18.py playwright 收藏夹爬虫   
 qlist.txt  知乎问题
 mj03.py 合并JSON文件
 m00   mongodb
@@ -25,3 +26,5 @@ a03.py  selenium
 fd03.py  读取HTML的链接 fd02.html
 fd05.py  读取HTML的链接 fd02.html
 t06.py   读取HTML的链接 ft.html
+pt.py   读取page HTML的链接 ft.htm
+pt01.py 读取page HTML的链接 写入mongodb ft.htm
